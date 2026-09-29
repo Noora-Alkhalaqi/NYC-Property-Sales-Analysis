@@ -138,3 +138,10 @@ https://www.nyc.gov/assets/finance/downloads/pdf/07pdf/glossary_rsf071607.pdf
 https://www.nyc.gov/assets/finance/jump/hlpbldgcode.html
 
 https://www.nyc.gov/site/finance/property/glossary-property-sales.page#
+
+## Articals
+https://www.foxbusiness.com/features/new-york-city-commercial-real-estate-sales-slump-in-first-half-of-2017
+https://www.wsj.com/articles/new-york-city-commercial-real-estate-sales-slump-in-first-half-of-2017-1502750265
+https://therealdeal.com/new-york/2022/12/29/how-flushing-became-a-hotbed-for-development/
+https://www.realtor.com/news/trends/manhattan-luxury-housing-market-nearly-back-to-2016-heyday/
+https://www.forbes.com/sites/shimonshkury/2026/09/15/fifteen-years-of-nyc-real-estate-the-market-recovers-but-never-in-the-same-way/
