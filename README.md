@@ -122,13 +122,12 @@ Future analysis could use property sales data covering multiple years to determi
 Further research could also examine:
 
 - Sale price per square foot
-- Differences between building categories
 - Tax class changes
 - Building class changes
 - Relationships between property size and sale price
 - Differences in market activity within each borough
 
-Future projects could also use machine learning models to predict property sale prices based on characteristics such as location, building size, property type, and building age.
+Future projects could also include a larger data set to really identify the patterns.
 
 ## Sources
  
